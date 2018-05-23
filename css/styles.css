@@ -1,0 +1,34 @@
+.container {
+  text-align: center;
+}
+
+.cupcake {
+  font-size: 20px;
+}
+
+ul {
+  margin: 0 auto;
+  list-style-type: none;
+}
+
+.red {
+  color: red;
+  font-weight: bold;
+}
+
+.pumpkin {
+  color: orange;
+  font-style: italic;
+}
+
+.funfetti {
+  color: green;
+}
+
+.olive {
+  color: olive;
+}
+
+img {
+  width: 30%;
+}
