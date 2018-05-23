@@ -9,6 +9,11 @@
 ul {
   margin: 0 auto;
   list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 20px;
 }
 
 .red {
@@ -31,4 +36,8 @@ ul {
 
 img {
   width: 30%;
+}
+
+footer {
+  margin-top: 100px;
 }
